@@ -1,0 +1,9 @@
+---
+exo__Asset_isDefinedBy: "[[5a15da53-4b39-4d96-87b3-5ac0199fa564]]"
+exo__Asset_uid: 870de8c5-cd17-463a-80c7-4100a883b3a5
+exo__Asset_createdAt: 2025-08-24T19:57:36
+exo__Instance_class:
+  - "[[9a1cf31c-9d41-4ef3-9023-584a8d087d16|exo__ObjectProperty]]"
+exo__Property_domain: "[[ims__Reciproxity]]"
+exo__Property_range: "[[dda12c48-6886-4624-8710-ed4ba92ce2b3|ims__Concept]]"
+---

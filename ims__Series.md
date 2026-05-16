@@ -1,0 +1,10 @@
+---
+exo__Asset_isDefinedBy: "[[5a15da53-4b39-4d96-87b3-5ac0199fa564]]"
+exo__Asset_createdAt: 2025-08-11T20:46:22
+exo__Asset_uid: edf149ae-92cb-4154-ae02-763e7b51545f
+exo__Instance_class:
+  - "[[exo__Class]]"
+exo__Class_superClass:
+  - "[[ims__Video]]"
+exo-ims__relatesToConcept: "[[Сериал]]"
+---

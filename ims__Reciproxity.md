@@ -1,0 +1,14 @@
+---
+exo__Asset_isDefinedBy: "[[5a15da53-4b39-4d96-87b3-5ac0199fa564]]"
+exo__Asset_uid: fb61664c-8c6f-42d0-93dc-184e637a461f
+exo__Asset_createdAt: 2025-08-23T23:09:45
+exo__Instance_class:
+  - "[[exo__Class]]"
+exo__Class_superClass:
+  - "[[cfed07e6-3860-4f7a-8ed5-89dbd3145d28|exo__Relation]]"
+exo__Relation_source: "[[dda12c48-6886-4624-8710-ed4ba92ce2b3|ims__Concept]]"
+exo__Relation_target: "[[dda12c48-6886-4624-8710-ed4ba92ce2b3|ims__Concept]]"
+exo-ims__relatesToConcept: "[[Реципроктные концепты]]"
+---
+
+

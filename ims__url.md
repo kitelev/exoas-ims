@@ -1,0 +1,9 @@
+---
+exo__Asset_uid: 0e7859fc-68f3-4e6a-b59c-aa10a5b131f1
+exo__Asset_isDefinedBy: "[[5a15da53-4b39-4d96-87b3-5ac0199fa564]]"
+exo__Asset_createdAt: 2025-10-04T00:42:46
+exo__Instance_class:
+  - "[[9a1cf31c-9d41-4ef3-9023-584a8d087d16|exo__ObjectProperty]]"
+exo__Property_domain: "[[ims__Series]]"
+exo__Property_range: URL
+---
