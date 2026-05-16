@@ -4,5 +4,5 @@ exo__Asset_uid: 5b2b28fc-21c1-47ce-bd3c-aacbf6b96fdd
 exo__Asset_createdAt: 2025-07-01T23:01:41
 exo__Instance_class:
   - "[[exo__StringProperty]]"
-exo__Property_domain: "[[ims__Definition]]"
+exo__Property_domain: "[[14cbc15d-bd94-4146-864e-e17273226c34]]"
 ---
