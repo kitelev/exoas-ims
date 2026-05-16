@@ -8,6 +8,9 @@ exo-ims__relatesToConcept: "[[Concept Schema (IMS)]]"
 aliases: концепт-схемами
 exo__Class_superClass:
   - "[[493c2ae2-de56-47ec-954d-2eb8cb49bff7]]"
+exo__Asset_label: ims__ConceptSchema
+aliases:
+  - ims__ConceptSchema
 ---
 
 ---
