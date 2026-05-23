@@ -12,7 +12,6 @@ exo__AssetSpace_namespace: "ims"
 exo__AssetSpace_containsOntology:
   - "[[5a15da53-4b39-4d96-87b3-5ac0199fa564]]"
 exo__AssetSpace_primaryOntology: "[[5a15da53-4b39-4d96-87b3-5ac0199fa564]]"
-exo__AssetSpace_canonicalVault: "vault-exodev"
 aliases:
   - "$ims AssetSpace"
 exo__AssetSpace_architecture: "[[d7a4a624-33d3-4f7b-a7f8-703c4a92e504]]"
