@@ -1,5 +1,4 @@
 ---
-exo__Asset_isDefinedBy: "[[d1195402-73a5-45ed-965f-3a435a553e6a]]"
 exo__Asset_uid: 6d0fdeea-c7d6-43ba-852e-1bb5fabcd895
 exo__Asset_createdAt: 2026-05-17T11:00:00
 exo__Asset_updatedAt: 2026-05-23T14:25:00+0500

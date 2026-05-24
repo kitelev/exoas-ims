@@ -5,7 +5,6 @@ exo__Asset_createdAt: 2025-08-24T22:03:08
 exo__Asset_updatedAt: 2026-05-17T15:05:00
 exo__Instance_class:
   - "[[8619c4fc-64f1-4869-b17e-e34186cacca9]]"
-exo-ims__relatesToConcept: "[[16addfb9-6862-40e5-a628-ff6fc18cc307]]"
 exo__Class_superClass:
   - "[[493c2ae2-de56-47ec-954d-2eb8cb49bff7]]"
 exo__Asset_label: ims__ConceptSchema
